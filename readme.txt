@@ -1,1 +1,0 @@
-git repo pull req you need - https://github.com/Mr-Maxraw/HSE-ml-lab1/pull/1 
